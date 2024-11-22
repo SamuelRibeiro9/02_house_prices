@@ -9,6 +9,8 @@ from joblib import load
 
 from notebooks.src.config import DADOS_LIMPOS, DADOS_GEO_MEDIAN, MODELO_FINAL
 
+st.set_page_config(layout='wide')
+
 @st.cache_data
 def carregar_dados_limpos():
     return pd.read_parquet(DADOS_LIMPOS)
