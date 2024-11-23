@@ -4,6 +4,7 @@ Primeiro projeto de machine learning desenvolvido a partir dos estudos de modelo
 Além disso, foi criado uma interface no streamlit para um usuário que deseja prever valores de um imóvel na região da Califórnia.
 
 ![FIGURA](imagens/house_prices.png)
+*Imagem gerada por IA*
 
 ## Organização do projeto
 
@@ -41,7 +42,7 @@ Além disso, foi criado uma interface no streamlit para um usuário que deseja p
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    git clone ENDERECO_DO_REPOSITORIO
+    git clone https://github.com/SamuelRibeiro9/02_house_prices.git
     ```
 
 2. Crie um ambiente virtual para o seu projeto utilizando o gerenciador de ambientes de sua preferência.
