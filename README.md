@@ -4,7 +4,7 @@ Primeiro projeto de machine learning desenvolvido a partir dos estudos de modelo
 Além disso, foi criado uma interface no streamlit para um usuário que deseja prever valores de um imóvel na região da Califórnia.
 
 ![FIGURA](imagens/house_prices.png)
-*Imagem gerada por IA*
+
 
 ## Organização do projeto
 
