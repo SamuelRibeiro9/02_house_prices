@@ -1,6 +1,6 @@
 # House Prices
 
-Primeiro projeto de machine learning desenvolvido a partir dos estudos de modelos de regressão linear.
+Projeto de machine learning desenvolvido a partir dos estudos de modelos de regressão linear.
 Além disso, foi criado uma interface no streamlit para um usuário que deseja prever valores de um imóvel na região da Califórnia.
 
 ![FIGURA](imagens/house_prices.png)
@@ -20,7 +20,7 @@ Além disso, foi criado uma interface no streamlit para um usuário que deseja p
 |
 ├── notebooks          <- Cadernos Jupyter. A convenção de nomenclatura é um número (para ordenação),
 │                         as iniciais do criador e uma descrição curta separada por `-`, por exemplo
-│                         `01-fb-exploracao-inicial-de-dados`.
+│                         `01-sr-exploracao-inicial-de-dados`.
 │
 |   └──src               <- Código-fonte para uso neste projeto.
 |      │
@@ -34,7 +34,7 @@ Além disso, foi criado uma interface no streamlit para um usuário que deseja p
 |
 ├── imagens         
 │      |
-|      ├── house_prices.png <- Imagem ilustrativa para o projeto.
+|      └──  house_prices.png <- Imagem ilustrativa para o projeto.
 ```
 
 ## Configuração do ambiente
